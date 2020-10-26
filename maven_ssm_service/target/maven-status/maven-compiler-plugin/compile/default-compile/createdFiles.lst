@@ -1,0 +1,14 @@
+com\ct\service\impl\RoleServiceImpl.class
+com\ct\service\impl\ProductServiceImpl.class
+com\ct\service\IOrdersService.class
+com\ct\service\impl\ProvinceServiceImpl.class
+com\ct\service\IProvinceService.class
+com\ct\service\IUserService.class
+com\ct\service\ProductService.class
+com\ct\service\impl\OrdersServiceImpl.class
+com\ct\service\ISyslogService.class
+com\ct\service\impl\UserServiceImpl.class
+com\ct\service\IRoleService.class
+com\ct\service\impl\SyslogServiceImpl.class
+com\ct\service\impl\PermissionService.class
+com\ct\service\IPermissionService.class

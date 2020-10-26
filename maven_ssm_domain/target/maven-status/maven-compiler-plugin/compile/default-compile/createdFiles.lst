@@ -1,0 +1,9 @@
+com\ct\Member.class
+com\ct\Traveller.class
+com\ct\UserInfo.class
+com\ct\Role.class
+com\ct\Permission.class
+com\ct\Province.class
+com\ct\Orders.class
+com\ct\Product.class
+com\ct\SysLog.class
